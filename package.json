@@ -1,0 +1,28 @@
+{
+  "name": "Anniversary",
+  "version": "2.0.0",
+  "description": "An updated description of your project.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AYUSH872000/Anniversary.git"
+  },
+  "keywords": [
+    "New Keywords",
+    "Updated"
+  ],
+  "author": "Ayush Satapathy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AYUSH872000/Anniversary/issues"
+  },
+  "homepage": "https://github.com/AYUSH872000/Anniversary#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jest": "^27.2.0"
+  }
+}
